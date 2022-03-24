@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13131A0D27EB677100A3D2D9 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13131A0C27EB677100A3D2D9 /* CoreDataStack.swift */; };
 		3585ECD123AB6B7200F49C82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3585ECD023AB6B7200F49C82 /* AppDelegate.swift */; };
 		3585ECD323AB6B7200F49C82 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3585ECD223AB6B7200F49C82 /* SceneDelegate.swift */; };
 		3585ECD523AB6B7200F49C82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3585ECD423AB6B7200F49C82 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		13131A0C27EB677100A3D2D9 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		3585ECCD23AB6B7200F49C82 /* MealTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MealTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3585ECD023AB6B7200F49C82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3585ECD223AB6B7200F49C82 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				3585ECD023AB6B7200F49C82 /* AppDelegate.swift */,
+				13131A0C27EB677100A3D2D9 /* CoreDataStack.swift */,
 				3585ECD223AB6B7200F49C82 /* SceneDelegate.swift */,
 				3585ECD423AB6B7200F49C82 /* ViewController.swift */,
 				3585ECD623AB6B7200F49C82 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 				3585ECD523AB6B7200F49C82 /* ViewController.swift in Sources */,
 				3585ECD123AB6B7200F49C82 /* AppDelegate.swift in Sources */,
 				3585ECD323AB6B7200F49C82 /* SceneDelegate.swift in Sources */,
+				13131A0D27EB677100A3D2D9 /* CoreDataStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
